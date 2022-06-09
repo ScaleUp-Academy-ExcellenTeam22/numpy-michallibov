@@ -16,3 +16,4 @@ def create_and_print_number_of_rows_and_cols(given_array) -> None:
 
 if __name__ == '__main__':
     create_and_print_number_of_rows_and_cols(np.array([[1, 2, 3], [4, 5, 6], [7, 8, 9]]))
+    
