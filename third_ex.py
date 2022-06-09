@@ -1,7 +1,7 @@
 import numpy as np
 
 
-def create_and_print_number_of_rows_and_cols(given_array) -> None:
+def create_and_print_number_of_rows_and_cols(given_array: np.array) -> None:
     """
     This function creates an array and prints the amount of rows and
     columns that this array has.
